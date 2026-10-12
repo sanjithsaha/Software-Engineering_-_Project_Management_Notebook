@@ -1,6 +1,6 @@
 # Stack and Heap in Java
 
-**Name:** Pritom Kumar Sen Anom | **ID:** IT24061
+**Name:** Sanjith Saha | **ID:** IT24044
 
 ## Files
 - `StudentMemoryDemo.java` - Problem 1 (Student: instance variable, local variable, identity hash code)
